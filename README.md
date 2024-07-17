@@ -1,16 +1,4 @@
 <div id="header" align="center">
-  <div id="badges" align="center">
-    <a href="https://twitter.com/__TheTS__">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
-    </a>
-    <a href="mailto:romantovt31@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
-    </a>
-    <a href="https://t.me/thets_labs">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-    </a>
-  </div>
-  
   <h1>
     So, Welcome?
   </h1>
