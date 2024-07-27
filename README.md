@@ -8,8 +8,11 @@
 </div>
 
 Here's some overview of my little silly projects:
-- [The Cage](https://github.com/TheTS-labs/the-cage) - Simple TUI game written in Rust with Ratatui which will prison you in procedurally generated maze
+
+- [Nsg](https://github.com/TheTS-labs/nsg) - Nsg is a library for interacting with Portal. Website my workplace uses to work with orders from clients. With a twist: All API(?) endpoints of Portal return HTML code that this lib parses in bearable structs
+- [Ryujin III Driver](https://github.com/TheTS-labs/ryujin_iii_driver) - Driver to control Ryujin I wrote because Armoutry Crate exists only for Windows. Altrough archivated and incompleted I achieved what I wanted: silence and darkness
 - [PixelFuse](https://github.com/TheTS-labs/pixel_fuse) - My latest rewrite of that idea! Converts (probably) any file into GIF and vice verssa. Sorry to take off your rose-colored glasses, but you can't use it on YouTube for unlimited storage, since even if it's a video, it requires lossless compression, which YouTube doesn't offer
+- [The Cage](https://github.com/TheTS-labs/the-cage) - Simple TUI game written in Rust with Ratatui which will prison you in procedurally generated maze
 - [Beth](https://github.com/TheTS-labs/Beth) - My official pet project. Nothing fancy, just a site that offers functionality like Reddit
 - [MonteMirage](https://github.com/TheTS-labs/MonteMirage) - _"Discord bot to check prices of crypto-assets"_
-- [Ryujin III Driver](https://github.com/TheTS-labs/ryujin_iii_driver) - Driver to control Ryujin I wrote because Armoutry Crate exists only for Windows. Altrough archivated and incompleted I achieved what I wanted: silence and darkness
+
